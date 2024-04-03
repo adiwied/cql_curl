@@ -41,7 +41,7 @@ Install MuJoCo 2.1 (please refer to [https://github.com/deepmind/dm_control](htt
 
 Create conda environment
 ```
-conda create -n myenv -f env_visual_offline.yml
+conda create -n myenv -f conda_env.yml
 ```
 To run the code, we give some sample scripts. Please adjust the relevant paths and run the scripts like so:
 ```
